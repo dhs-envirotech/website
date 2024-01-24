@@ -11,6 +11,6 @@ Join the **Discord**: [https://discord.gg/davDF9yW](https://discord.gg/davDF9yW)
 
 ## 📁 Projects
 
-- [`timelapse`](./Projects/timelapse.md): A codebase to turn a Raspberry Pi into a timelapse camera
-- [`accesspoint`](./Projects/accesspoint.md): A codebase to turn a Raspberry Pi into an access point
-- [`RC car`](./Projects/rccar.md): Interface to control a single Raspberry Pi-controlled car
+- [`timelapse`](./projects/timelapse.md): A codebase to turn a Raspberry Pi into a timelapse camera
+- [`accesspoint`](./projects/accesspoint.md): A codebase to turn a Raspberry Pi into an access point
+- [`RC car`](./projects/rccar.md): Interface to control a single Raspberry Pi-controlled car
